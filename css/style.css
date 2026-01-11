@@ -121,3 +121,6 @@ text-decoration:none;
 .float-btn:hover{
 transform:scale(1.1);
 }
+.float-btn i{
+font-size:30px;
+  }
