@@ -2,24 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://sharjeel-src.github.io/Washing-machine-repair-/</loc>
-<lastmod>2026-01-12</lastmod>
-</url>
-
-<url>
-<loc>https://sharjeel-src.github.io/Washing-machine-repair-/index.html</loc>
-</url>
-
-<url>
-<loc>https://sharjeel-src.github.io/Washing-machine-repair-/about.html</loc>
-</url>
-
-<url>
-<loc>https://sharjeel-src.github.io/Washing-machine-repair-/services.html</loc>
-</url>
-
-<url>
-<loc>https://sharjeel-src.github.io/Washing-machine-repair-/contact.html</loc>
+  <loc>https://sharjeel-src.github.io/Washing-machine-repair-/</loc>
+  <lastmod>2026-01-12</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
 </url>
 
 </urlset>
