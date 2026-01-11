@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://sharjeel-src.github.io/Washing-machine-repair-/sitemap.xml
